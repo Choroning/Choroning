@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- Header (light mode) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=8&height=300&section=header&text=Cheolwon%20Park&fontSize=56&animation=fadeIn&fontAlignY=45&desc=Student%20Developer%20%7C%20CS%20%40%20Korea%20University&descAlignY=60&descAlign=50&fontColor=000000#gh-light-mode-only" width="100%" />
-<!-- Header (dark mode) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=8&height=300&section=header&text=Cheolwon%20Park&fontSize=56&animation=fadeIn&fontAlignY=45&desc=Student%20Developer%20%7C%20CS%20%40%20Korea%20University&descAlignY=60&descAlign=50&fontColor=ffffff#gh-dark-mode-only" width="100%" />
+<!-- Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=8&height=300&section=header&text=Cheolwon%20Park&fontSize=56&animation=fadeIn&fontAlignY=45&desc=Student%20Developer%20%7C%20CS%20%40%20Korea%20University&descAlignY=60&descAlign=50&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=8&height=300&section=header&text=Cheolwon%20Park&fontSize=56&animation=fadeIn&fontAlignY=45&desc=Student%20Developer%20%7C%20CS%20%40%20Korea%20University&descAlignY=60&descAlign=50&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=8&height=300&section=header&text=Cheolwon%20Park&fontSize=56&animation=fadeIn&fontAlignY=45&desc=Student%20Developer%20%7C%20CS%20%40%20Korea%20University&descAlignY=60&descAlign=50&fontColor=000000" width="100%" />
+</picture>
 
 <br/>
 
