@@ -58,9 +58,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Choroning&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Choroning&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=0969da" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Choroning&show_icons=true&hide_border=true&include_all_commits=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Choroning&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Choroning&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=0969da" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Choroning&show_icons=true&hide_border=true" />
       </picture>
     </td>
     <td>
