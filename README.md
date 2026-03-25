@@ -15,6 +15,10 @@
 💻 Interested in **AI/ML**, **LLMs & Vision Models**, and **Data Science** <br/>
 🔭 Currently exploring **AI Orchestration & LLM Research** <br/>
 
+[![KU Mail](https://img.shields.io/badge/Korea_Univ._Mail-8B0029?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:scott9020@korea.ac.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheolwon920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/철원-박-2a36ba379/)
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -49,14 +53,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/>
-
-## 📫 Contact
-
-[![KU Mail](https://img.shields.io/badge/Korea_Univ._Mail-8B0029?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:scott9020@korea.ac.kr)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheolwon920@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/철원-박-2a36ba379/)
 
 <br/>
 
