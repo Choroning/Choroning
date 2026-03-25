@@ -52,6 +52,14 @@
 
 <br/>
 
+## 📫 Contact
+
+[![KU Mail](https://img.shields.io/badge/Korea_Univ._Mail-8B0029?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:scott9020@korea.ac.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheolwon920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/철원-박-2a36ba379/)
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <table>
