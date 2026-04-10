@@ -12,7 +12,7 @@
 ## 👋 About Me
 
 🎓 **Computer Science & Software Engineering** @ Korea University, Sejong <br/>
-💻 Interested in **AI/ML**, **LLMs & Vision Models**, and **Data Science** <br/>
+💻 Interested in **AI/ML**, **LLMs & Vision Models**, and **Data Analysis** <br/>
 🔭 Currently exploring **AI Orchestration & LLM Research** <br/>
 
 [![KU Mail](https://img.shields.io/badge/Korea_Univ._Mail-8B0029?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:scott9020@korea.ac.kr)
