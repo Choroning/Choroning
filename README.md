@@ -7,53 +7,28 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=8&height=300&section=header&text=Cheolwon%20Park&fontSize=56&animation=fadeIn&fontAlignY=45&desc=Student%20Developer%20%7C%20CS%20%40%20Korea%20University&descAlignY=60&descAlign=50&fontColor=000000" width="100%" />
 </picture>
 
-<br/>
-
 ## 👋 About Me
 
 🎓 **Computer Science & Software Engineering** @ Korea University, Sejong <br/>
-🎓 **Software Technology & Entrepreneurship** (Secondary Major) @ Korea University, Seoul <br/>
+🎓 **Software Technology & Entrepreneurship** @ Korea University, Seoul <br/>
 💻 Interested in **AI/ML**, **LLMs & Vision Models**, and **Data Analysis** <br/>
 🔭 Currently exploring **AI Orchestration & LLM Research** <br/>
 
-[![KU Mail](https://img.shields.io/badge/Korea_Univ._Mail-8B0029?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:scott9020@korea.ac.kr)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheolwon920@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/철원-박-2a36ba379/)
-
-<br/>
+📫 **Contact me** at [Korea University Mail](mailto:scott9020@korea.ac.kr "scott9020@korea.ac.kr") · [Gmail](mailto:cheolwon920@gmail.com "cheolwon920@gmail.com") · [LinkedIn](https://www.linkedin.com/in/철원-박-2a36ba379/)
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,r,mysql,bash)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,vite,postgres)](https://skillicons.dev)
 
+**Tools & Infrastructure**
 
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/>
+[![Tools](https://skillicons.dev/icons?i=docker,linux,git,cloudflare)](https://skillicons.dev)
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=150&section=footer" width="100%" />
