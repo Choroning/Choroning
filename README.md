@@ -24,11 +24,11 @@
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,react,vite,tailwind,nodejs,express,django,fastapi)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,react,vite,tailwind,nodejs,express,fastapi)](https://skillicons.dev)
 
 **Tools & Infrastructure**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,latex,ps,figma,linux,docker,supabase,vercel,cloudflare)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,ps,figma,linux,docker,supabase,vercel,cloudflare)](https://skillicons.dev)
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=150&section=footer" width="100%" />
