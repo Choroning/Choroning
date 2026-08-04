@@ -12,7 +12,7 @@
 🎓 **Computer Science & Software Engineering** @ Korea University, Sejong <br/>
 🎓 **Software Technology & Entrepreneurship** @ Korea University, Seoul <br/>
 💻 Interested in **Robotics**, **Vision Models**, **Automated Planning** <br/>
-🔭 Currently exploring **AI Orchestration & LLM Research** <br/>
+🔭 Currently exploring **LLM Finetuning Tasks** <br/>
 
 📫 **Contact me** at [Korea University Mail](mailto:scott9020@korea.ac.kr "scott9020@korea.ac.kr") · [Gmail](mailto:cheolwon920@gmail.com "cheolwon920@gmail.com") · [LinkedIn](https://www.linkedin.com/in/철원-박-2a36ba379/)
 
