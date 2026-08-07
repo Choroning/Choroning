@@ -16,20 +16,6 @@
 
 📫 **Contact me** at [Korea University Mail](mailto:scott9020@korea.ac.kr "scott9020@korea.ac.kr") · [Gmail](mailto:cheolwon920@gmail.com "cheolwon920@gmail.com") · [LinkedIn](https://www.linkedin.com/in/철원-박-2a36ba379/)
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,r,html,css,js,ts)](https://skillicons.dev)
-
-**Frameworks & Libraries**
-
-[![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,react,vite,tailwind,nodejs,express,fastapi)](https://skillicons.dev)
-
-**Tools & Infrastructure**
-
-[![Tools](https://skillicons.dev/icons?i=vscode,ps,figma,linux,docker,supabase,vercel,cloudflare)](https://skillicons.dev)
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=150&section=footer" width="100%" />
 
