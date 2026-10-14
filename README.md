@@ -20,8 +20,8 @@
 
 ## 🧩 Recent Activities
 
-🎯 [**2026 AI·SW University Digital Competition: AI Division**](https://github.com/Choroning/26Summer_ASDC-AI) · AI Agent Action Decision Challenge <br/>
-🎯 [**2026 Samsung Collegiate Programming Challenge : AI Division**](https://github.com/Choroning/26Summer_SCPC-AI) · AI Agent Harness Design Challenge <br/>
+🎯 [**2026 AI·SW University Digital Competition: AI Division**](https://github.com/Choroning/26Summer_ASDC-AI) · Excellence Award (Chair's Award) <br/>
+🎯 [**2026 Samsung Collegiate Programming Challenge : AI Division**](https://github.com/Choroning/26Summer_SCPC-AI) · Third Prize <br/>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=150&section=footer" width="100%" />
