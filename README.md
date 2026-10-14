@@ -20,7 +20,6 @@
 
 ## 🧩 Recent Activities
 
-🎯 [**savetax.now Hackathon**](https://github.com/Choroning/26Fall_SaveTax-Hackathon) · Public Procurement Hackathon <br/>
 🎯 [**2026 AI·SW University Digital Competition: AI Division**](https://github.com/Choroning/26Summer_ASDC-AI) · AI Agent Action Decision Challenge <br/>
 🎯 [**2026 Samsung Collegiate Programming Challenge : AI Division**](https://github.com/Choroning/26Summer_SCPC-AI) · AI Agent Harness Design Challenge <br/>
 
